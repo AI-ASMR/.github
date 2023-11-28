@@ -28,10 +28,10 @@ https://youtu.be/YCzL96nL7j0
 Melody generation with RNN-LSTM (audio generation with RNN-LSTM)<br/>
 https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz
 
-RNN used to generate piano sound composition in real time with toggles and settings<br/>
+RNN used to generate piano sound composition in real-time with toggles and settings<br/>
 https://magenta.tensorflow.org/demos/performance_rnn/index.html#1|0,0,0,2,0,5,0,0,0,2,0,0|1,1,1,1,1,1,1,1,1,1,1,1|1,1,1,1,1,1,1,1,1,1,1,1|false
 
-# Analysys of spectrograms and audio transformation
+# Analysis of spectrograms and audio transformation
 
 Spectral Coherence<br/>
 https://cyclostationary.blog/2016/01/08/the-spectral-coherence-function/
