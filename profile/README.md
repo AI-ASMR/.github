@@ -31,3 +31,13 @@ https://youtube.com/playlist?list=PL-wATfeyAMNr0KMutwtbeDCmpwvtul-Xz
 RNN used to generate piano sound composition in real time with toggles and settings<br/>
 https://magenta.tensorflow.org/demos/performance_rnn/index.html#1|0,0,0,2,0,5,0,0,0,2,0,0|1,1,1,1,1,1,1,1,1,1,1,1|1,1,1,1,1,1,1,1,1,1,1,1|false
 
+# Analysys of spectrograms and audio transformation
+
+Spectral Coherence<br/>
+https://cyclostationary.blog/2016/01/08/the-spectral-coherence-function/
+
+Spectral Correlation<br/>
+https://cyclostationary.blog/2015/09/28/the-spectral-correlation-function/
+
+Spectrogram generation example using JS <br/>
+https://lightningchart.com/js-charts/interactive-examples/edit/lcjs-example-0802-spectrogram.html
